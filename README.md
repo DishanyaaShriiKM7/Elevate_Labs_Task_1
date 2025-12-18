@@ -82,4 +82,4 @@ Elevate_Labs_Task_1/
 
 ---
 ## 📌 contact
-- [Mail](dishanyaaofficial@gmail.com)
+- [Dishanyaa's Mail](dishanyaaofficial@gmail.com)
